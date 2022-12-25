@@ -1,0 +1,45 @@
+{
+    "users" :[
+        {
+            "name":"Shalini Anand",
+            "email":"shalini@gmail.com",
+            "age":"24",
+            "image":"https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8dXNlciUyMHByb2ZpbGV8ZW58MHx8MHx8&w=1000&q=80",
+            "isage":false            
+        },
+        {
+            "name":"Ajai Anand",
+            "email":"ajai@gmail.com",
+            "age":"20",
+            "image":"https://cdn.statusqueen.com/dpimages/thumbnail/Boy_Stylish__Dp_Image-2277.jpg",
+            "isage":false
+        },
+        {
+            "name":"Sumati Anand",
+            "email":"sumathi@gmail.com",
+            "age":"45",
+            "image":"https://shayaridost.in/wp-content/uploads/2022/08/alone-whatsapp-dp-girl.jpg",
+            "isage":false
+        },
+        {
+            "name":"Anand",
+            "email":"anand@gmail.com",
+            "age":"50",
+            "image":"https://cdn.statusqueen.com/dpimages/thumbnail/Stylish_boy_dp-2553.jpg",
+            "isage":false
+        },
+        {
+            "name":"Shreesh Kaushik",
+            "email":"kaushik@gmail.com",
+            "age":"24",
+            "image":"https://cdn.statusqueen.com/dpimages/thumbnail/Stylish_mask_boy_image-2845.jpg",
+            "isage":false
+        },
+        {
+            "name":"Diksha",
+            "email":"diksha@gmail.com",
+            "age":"18",
+            "image":"https://www.freehindiwishes.com/wp-content/uploads/2020/10/Best-DP-For-Instagram-For-Girl.jpg",
+            "isage":false
+        }]
+}
